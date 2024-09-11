@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245201580265",
+    "project_id": "quickchatapp-57030",
+    "storage_bucket": "quickchatapp-57030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245201580265:android:400e6617a8a8c51f698078",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcGtmRawRx2Eh2Y2FiHtEuN8EwrHSS--8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
